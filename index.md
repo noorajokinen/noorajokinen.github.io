@@ -4,26 +4,31 @@ You can use the [editor on GitHub](https://github.com/noorajokinen/noorajokinen.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Harjoitukset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[**Vko 39**](https://noorajokinen.github.io/harkka39/)
+
+[**Vko 40**]()
+[**Vko 41 bs-vakiotyylit**](https://noorajokinen.github.io/harkka41/bs-vakiotyylit/) [**Vko 41 bs-teema**](https://noorajokinen.github.io/harkka41/bs-teema/bootstrap/)
+[**Vko 44**]()
+[**Vko 45**]()
+
+
+
 
 ```markdown
-Syntax highlighted code block
+Harjoitukset
 
-# Header 1
-## Header 2
-### Header 3
+- 39: 
+- 40:
+- 41:
+    - BS-vakiotyylit
+    - BS-teema
+- 44:
+    - osa 1:
+    - osa 2:
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
