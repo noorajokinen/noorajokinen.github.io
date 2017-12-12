@@ -1,9 +1,13 @@
-## Welcome to MY GitHub Pages
+# Welcome to MY GitHub Pages
 
 I am Noora Jokinen
+
 Information and Communication Technology
+
 JAMK University of Applied Sciences
+
 Student number: K8241
+
 Group id: TTV16S2
 
 ## TTMS0400
@@ -25,3 +29,6 @@ Web-visualisointi -kurssin harjoitukset ja harjoitustyö.
 [Vko 45]()
 
 [**Harjoitustyö**](https://noorajokinen.github.io/harjoitustyo/)
+
+[**Harjoitustyö dokumentaatio**]()
+
