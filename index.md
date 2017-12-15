@@ -29,7 +29,7 @@ Web-visualisointi -kurssin harjoitukset ja harjoitustyö.
 [Vko 44 teht 2](https://codepen.io/anon/pen/MrgrgR)
 
 [Vko 45 teht1 ](https://noorajokinen.github.io/harkka45/adidas.svg)
-[Vko 45 teht 2](https://noorajokinen.github.io/harkka45/mr.pink.svg)
+[Vko 45 teht 2](https://noorajokinen.github.io/harkka45/mr.olio.svg)
 
 ### Harjoitustyö
 
