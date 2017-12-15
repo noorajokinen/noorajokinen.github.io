@@ -16,7 +16,7 @@ Web-visualisointi -kurssin harjoitukset ja harjoitustyö.
 
 ### Harjoitukset
 
-[Vko 38](https://noorajokinen.github.io/harkka37/)
+[Vko 37](https://noorajokinen.github.io/harkka37/)
 
 [Vko 39](https://noorajokinen.github.io/harkka39/)
 
