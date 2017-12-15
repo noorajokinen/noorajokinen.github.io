@@ -16,9 +16,11 @@ Web-visualisointi -kurssin harjoitukset ja harjoitustyö.
 
 ### Harjoitukset
 
+[Vko 38](https://noorajokinen.github.io/harkka37/)
+
 [Vko 39](https://noorajokinen.github.io/harkka39/)
 
-[Vko 40]()
+[Vko 40](https://www.fluidui.com/editor/live/preview/cF9QSHpQeFppdFRoRHN6VjRBY0NnTjJKRDZKSnZpaENCNA==)
 
 [Vko 41 bs-vakiotyylit](https://noorajokinen.github.io/harkka41/bs-vakiotyylit/) 
 [Vko 41 bs-teema](https://noorajokinen.github.io/harkka41/bs-teema/bootstrap/)
@@ -28,7 +30,9 @@ Web-visualisointi -kurssin harjoitukset ja harjoitustyö.
 
 [Vko 45]()
 
+### Harjoitustyö
+
 [**Harjoitustyö**](https://noorajokinen.github.io/harjoitustyo/)
 
-[**Harjoitustyö dokumentaatio**]()
+[**Harjoitustyö dokumentaatio**](https://noorajokinen.github.io/harjoitustyo/document.pdf)
 
